@@ -1,16 +1,14 @@
-# flutter_application_5
+# Social_Network_for_Pets
 
 A new Flutter project.
 
+Areti Meh (ntua-el20152)
+Konstantinos Papadopoulos (ConstantinePapadopoulos)
+
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application and it's about a pet app.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this app, first download the database in the pet_database.sql file, and setup the database.
+Then you must run the app.py file to connect the api and connect the app to the database.
